@@ -129,4 +129,4 @@ If this made you feel seen, share it with someone who might need it. 💚
 
 ##  License
 
-Free to use and learn from. Add a license file (like MIT) if you'd like others to reuse or modify it.
+<p>© 2026 Mimic. Released under the MIT License.</p>
